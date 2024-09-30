@@ -1,0 +1,289 @@
+Source,Target,Type,Weight
+1,4,Romantic rivals,1
+1,4,Romantic rivals,1
+1,2,Affair,1
+1,2,Affair,1
+2,9,Affair,1
+2,9,Affair,1
+2,21,Contempt,1
+2,7,Friendship,1
+2,4,Romantic exploration,1
+2,4,Romantic exploration,1
+2,11,Friendship,1
+2,24,Contempt,1
+2,9,Affair,1
+2,9,Breakup,1
+2,4,Romantic exploration,1
+2,11,Friendship,1
+2,26,Romantic exploration,1
+2,4,Romantic exploration,1
+2,21,Friendship,1
+2,4,Affair,1
+2,8,Affair,1
+2,4,Romantic exploration,1
+2,17,Romantic rivals,1
+2,7,Romantic rivals,1
+2,21,Friendship,1
+2,4,Romantic exploration,1
+2,4,Romantic exploration,1
+2,11,Friendship,1
+2,4,Romantic exploration,1
+2,5,Past relationship,1
+2,9,Romantic exploration,1
+2,9,Breakup,1
+2,8,Affair,1
+2,9,Breakup,1
+2,11,Friendship,1
+2,4,Breakup,1
+2,9,Affair,1
+2,8,Romantic exploration,1
+2,8,Romantic exploration,1
+2,8,Romantic exploration,1
+2,8,Romantic exploration,1
+2,11,Friendship,1
+2,4,Romantic exploration,1
+2,5,Past relationship,1
+2,8,Romantic exploration,1
+2,5,Past relationship,1
+2,4,Romantic exploration,1
+2,24,Contempt,1
+2,9,Affair,1
+2,9,Affair,1
+2,5,Past relationship,1
+2,11,Friendship,1
+2,1,Affair,1
+2,21,Friendship,1
+2,15,Past relationship,1
+2,3,Contempt,1
+2,8,Romantic exploration,1
+2,14,Romantic exploration,1
+2,11,Friendship,1
+2,11,Friendship,1
+2,14,Friendship,1
+2,4,Romantic exploration,1
+2,4,Romantic exploration,1
+2,11,Friendship,1
+2,21,Friendship,1
+2,11,Friendship,1
+2,21,Friendship,1
+2,21,Friendship,1
+3,7,Romantic rivals,1
+3,14,Romantic exploration,1
+3,6,Affair,1
+3,7,Contempt,1
+3,26,Romantic exploration,1
+3,2,Contempt,1
+3,3,Contempt,1
+3,7,Romantic rivals,1
+3,6,Romantic exploration,1
+3,2,Contempt,1
+3,14,Affair,1
+3,14,Affair,1
+3,7,Romantic rivals,1
+3,7,Romantic rivals,1
+4,9,Romantic rivals,1
+4,9,Romantic rivals,1
+4,10,Marriage,1
+4,9,Romantic rivals,1
+4,20,Friendship,1
+4,10,Marriage,1
+4,2,Romantic exploration,1
+4,10,Marriage,1
+4,1,Romantic rivals,1
+4,10,Marriage,1
+4,9,Romantic rivals,1
+4,2,Romantic exploration,1
+4,2,Romantic exploration,1
+4,26,Romantic rivals,1
+4,14,Romantic rivals,1
+4,23,Friendship,1
+4,10,Marriage,1
+4,2,Romantic exploration,1
+4,2,Romantic exploration,1
+4,2,Romantic exploration,1
+4,2,Affair,1
+4,2,Affair,1
+4,24,Friendship,1
+4,14,Romantic rivals,1
+4,2,Breakup,1
+4,9,Contempt,1
+4,2,Romantic exploration,1
+4,2,Romantic exploration,1
+4,2,Romantic exploration,1
+4,2,Romantic exploration,1
+4,10,Marriage,1
+4,2,Romantic exploration,1
+4,5,Friendship,1
+4,3,Contempt,1
+4,10,Marriage,1
+4,14,Romantic rivals,1
+4,2,Romantic exploration,1
+4,2,Romantic exploration,1
+4,12,Family,1
+4,10,Marriage,1
+4,2,Romantic exploration,1
+4,20,Friendship,1
+4,10,Marriage,1
+4,2,Past relationship,1
+4,11,Friendship,1
+4,9,Romantic rivals,1
+4,10,Marriage,1
+4,2,Romantic exploration,1
+4,9,Romantic rivals,1
+4,12,Family,1
+4,23,Friendship,1
+4,14,Romantic rivals,1
+4,2,Romantic exploration,1
+4,2,Affair,1
+5,9,Romantic rivals,1
+5,2,Past relationship,1
+5,2,Past relationship,1
+5,2,Past relationship,1
+5,3,Contempt,1
+5,23,Romantic exploration,1
+5,2,Past relationship,1
+5,23,Romantic exploration,1
+5,2,Past relationship,1
+5,2,Past relationship,1
+5,21,Friendship,1
+5,2,Past relationship,1
+5,23,Romantic exploration,1
+6,7,Contempt,1
+6,24,Affair,1
+6,24,Romantic exploration,1
+6,3,Affair,1
+6,24,Affair,1
+6,24,Romantic exploration,1
+7,14,Marriage,1
+7,2,Romantic rivals,1
+7,3,Romantic rivals,1
+7,14,Marriage,1
+7,14,Marriage,1
+7,3,Romantic rivals,1
+7,14,Marriage,1
+7,14,Marriage,1
+7,14,Marriage,1
+8,2,Romantic exploration,1
+8,2,Romantic exploration,1
+8,2,Romantic exploration,1
+8,2,Romantic exploration,1
+8,17,Affair,1
+8,2,Romantic exploration,1
+8,2,Romantic exploration,1
+8,21,Romantic exploration,1
+8,2,Romantic exploration,1
+8,9,Romantic rivals,1
+8,2,Romantic exploration,1
+8,2,Affair,1
+9,4,Contempt,1
+9,2,Affair,1
+9,5,Friendship,1
+9,2,Affair,1
+9,8,Romantic rivals,1
+9,8,Romantic rivals,1
+9,2,Past relationship,1
+9,2,Affair,1
+9,4,Romantic rivals,1
+9,2,Romantic exploration,1
+9,4,Contempt,1
+9,2,Breakup,1
+9,2,Affair,1
+10,4,Marriage,1
+10,21,Contempt,1
+10,2,Romantic rivals,1
+10,23,Friendship,1
+10,2,Romantic rivals,1
+10,4,Marriage,1
+10,4,Marriage,1
+10,12,Family,1
+10,12,Family,1
+10,18,Friendship,1
+10,4,Marriage,1
+10,4,Marriage,1
+10,4,Marriage,1
+11,22,Marriage,1
+11,28,Friendship,1
+11,24,Friendship,1
+11,22,Engagement,1
+11,2,Friendship,1
+11,2,Friendship,1
+11,13,Affair,1
+11,2,Friendship,1
+11,2,Friendship,1
+11,2,Friendship,1
+11,2,Friendship,1
+11,13,Affair,1
+11,22,Engagement,1
+11,3,Contempt,1
+11,22,Past relationship,1
+11,22,Engagement,1
+11,22,Affair,1
+11,24,Friendship,1
+11,2,Friendship,1
+11,2,Friendship,1
+11,2,Friendship,1
+11,2,Friendship,1
+11,2,Contempt,1
+11,22,Engagement,1
+11,13,Contempt,1
+11,22,Marriage,1
+12,10,Family,1
+12,4,Family,1
+12,10,Family,1
+13,11,Affair,1
+13,6,Friendship,1
+14,4,Romantic rivals,1
+14,2,Romantic exploration,1
+14,7,Marriage,1
+14,3,Affair,1
+14,,Romantic rivals,1
+14,3,Affair,1
+14,4,Romantic rivals,1
+14,26,Romantic rivals,1
+14,3,Affair,1
+14,4,Romantic rivals,1
+14,26,Romantic rivals,1
+14,4,Romantic rivals,1
+14,3,Affair,1
+14,2,Romantic exploration,1
+14,3,Affair,1
+14,3,Affair,1
+14,21,Contempt,1
+15,2,Past relationship,1
+15,2,Past relationship,1
+16,5,Marriage,1
+16,15,Marriage,1
+17,2,Romantic rivals,1
+18,20,Marriage,1
+18,20,Marriage,1
+18,27,Family,1
+19,4,Family,1
+20,4,Friendship,1
+20,18,Marriage,1
+20,27,Family,1
+20,4,Friendship,1
+20,4,Friendship,1
+21,11,Friendship,1
+21,9,Romantic exploration,1
+21,10,Contempt,1
+21,2,Friendship,1
+21,11,Friendship,1
+21,2,Contempt,1
+21,2,Romantic rivals,1
+21,2,Friendship,1
+21,2,Friendship,1
+21,4,Friendship,1
+21,10,Contempt,1
+21,2,Friendship,1
+21,2,Friendship,1
+22,13,Romantic rivals,1
+22,11,Romantic exploration,1
+22,11,Contempt,1
+23,4,Friendship,1
+24,11,Friendship,1
+24,11,Friendship,1
+24,3,Contempt,1
+24,6,Romantic exploration,1
+25,23,Family,1
+26,1,Romantic rivals,1
+26,2,Romantic exploration,1
