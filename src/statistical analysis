@@ -1,0 +1,29 @@
+# 1. Clustering Coefficient
+global_clustering = nx.average_clustering(G)  # Global clustering coefficient
+local_clustering = nx.clustering(G)  # Local clustering for each node
+
+# 2. Degree Distribution
+degrees = dict(G.degree())  # Degree of each node
+
+# 3. Betweenness Centrality
+betweenness = nx.betweenness_centrality(G)  # Betweenness centrality for each node
+
+# 4. Network Density
+density = nx.density(G)  # Density of the graph
+
+# 5. Average Shortest Path Length (if the graph is connected)
+if nx.is_connected(G):
+    avg_shortest_path = nx.average_shortest_path_length(G)
+else:
+    avg_shortest_path = None  # Handle disconnected graphs
+
+# Print the results for exploration
+print("Global Clustering Coefficient:", global_clustering)
+print("Local Clustering Coefficients:", local_clustering)
+print("Degrees of Nodes:", degrees)
+print("Betweenness Centrality:", betweenness)
+print("Network Density:", density)
+if avg_shortest_path:
+    print("Average Shortest Path Length:", avg_shortest_path)
+else:
+    print("Graph is not connected, can't compute average shortest path.")
