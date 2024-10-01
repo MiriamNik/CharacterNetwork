@@ -1,0 +1,9 @@
+import matplotlib.pyplot as plt
+
+# Degree Distribution Visualization
+degree_values = [v for v in dict(G.degree()).values()]  # Extract degree values for nodes
+plt.hist(degree_values, bins=range(min(degree_values), max(degree_values) + 1), edgecolor='black')
+plt.title('Degree Distribution')
+plt.xlabel('Degree')
+plt.ylabel('Frequency')
+plt.show()
