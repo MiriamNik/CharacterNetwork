@@ -17,6 +17,7 @@ This project analyzes a network of relationships between different characters. T
 - **PageRank Analysis**: Determines the most important nodes in the network.
 - **Community Detection**: Identifies densely connected sub-networks using the Louvain Method.
 - **Clustering Coefficient**: Measures how closely nodes are interconnected within their neighborhoods.
+For detailed analysis, please see the Analysis Document.
 
 ## Installation
 To run this project locally, clone the repository and install the necessary dependencies:
