@@ -1,0 +1,7 @@
+# Betweenness Centrality Visualization
+betweenness = nx.betweenness_centrality(G)  # Compute betweenness centrality
+plt.bar(betweenness.keys(), betweenness.values())
+plt.title('Betweenness Centrality per Node')
+plt.xlabel('Node')
+plt.ylabel('Betweenness Centrality')
+plt.show()
