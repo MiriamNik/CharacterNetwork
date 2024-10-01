@@ -1,0 +1,7 @@
+# Local Clustering Coefficient Visualization
+local_clustering = nx.clustering(G)  # Local clustering coefficient for each node
+plt.bar(local_clustering.keys(), local_clustering.values())
+plt.title('Local Clustering Coefficient per Node')
+plt.xlabel('Node')
+plt.ylabel('Clustering Coefficient')
+plt.show()
